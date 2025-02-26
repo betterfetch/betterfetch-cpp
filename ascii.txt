@@ -1,15 +1,7 @@
- lllllllllllllll   lllllllllllllll  
- lllllllllllllll   lllllllllllllll
- lllllllllllllll   lllllllllllllll  
- lllllllllllllll   lllllllllllllll  
- lllllllllllllll   lllllllllllllll  
- lllllllllllllll   lllllllllllllll  
- lllllllllllllll   lllllllllllllll  
-                                    
- lllllllllllllll   lllllllllllllll 
- lllllllllllllll   lllllllllllllll 
- lllllllllllllll   lllllllllllllll  
- lllllllllllllll   lllllllllllllll  
- lllllllllllllll   lllllllllllllll  
- lllllllllllllll   lllllllllllllll  
- lllllllllllllll   lllllllllllllll  
+     _______
+    /       \
+   /         \
+  |           |
+  |  (o) (o)  |
+  |     ^     |
+   \_________/

@@ -15,3 +15,5 @@ void displayAsciiArt(const std::string &filename) {
   } 
   file.close();
 }
+
+// DONE! displayAsciiArt works!

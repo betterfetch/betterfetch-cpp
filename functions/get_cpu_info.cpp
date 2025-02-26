@@ -18,3 +18,6 @@ std::string getCPUInfo() {
 
   return cpuModel.empty() ? "Unknown CPU" : cpuModel;
 }
+
+
+// DONE getCPUInfo Works!
