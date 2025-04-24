@@ -1,5 +1,6 @@
 # Betterfetch
 ![image](./img/example_image.png)
+![image](./img/example_image_2.png)
 <br>
 WARNING!: this app is still in development, there are some bugs.
 You can open an issue in github
