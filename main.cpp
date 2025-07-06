@@ -4,7 +4,6 @@
 int main() {
   displayAsciiArt("ascii.txt");
   std::cout << "User:  " << getUserName() << std::endl;
-  std::cout << "Host:  " << getHostName() << std::endl;
   std::cout << "OS:  " << getOSInfo() << std::endl;
   std::cout << "Kernel:  " << getKernelVersion() << std::endl;
   std::cout << "CPU: " << getCPUInfo() << std::endl;

@@ -1,4 +1,6 @@
 #include <sys/utsname.h>
+#include <iostream> 
+#include <string>
 
 std::string getKernelVersion() {
    struct utsname buffer;

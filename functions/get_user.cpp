@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <sys/utsname.h>
+#include <unistd.h>
 
 std::string getUserName() {
     char* username = getenv("USER");

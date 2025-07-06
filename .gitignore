@@ -2,3 +2,6 @@
 
 /.vscode
 /.vscode/*
+
+build/
+build/*
