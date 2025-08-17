@@ -1,10 +1,11 @@
-#include <iostream>
-#include "get_cpu_info.cpp"
-#include "ascii_show.cpp"
-#include "get_os_info.cpp"
-#include "get_memory_info.cpp"
-#include "get_gpu_info.cpp"
-#include "get_up_time.cpp"
-#include "get_kernel.cpp"
-#include "get_user.cpp"
-#include "get_shell.cpp"
+#pragma once
+#include <string>
+void displayAsciiArt(const std::string& filename);
+std::string getUserName();
+std::string getOSInfo();
+std::string getKernelVersion();
+std::string getCPUInfo();
+std::string getShell();
+std::string getMemoryInfo();
+std::string getGPUInfo();
+std::string getUptime();

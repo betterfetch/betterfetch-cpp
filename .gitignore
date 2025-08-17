@@ -5,3 +5,7 @@
 
 build/
 build/*
+
+**/*.o
+*.o
+*.obj
