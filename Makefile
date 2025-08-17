@@ -36,3 +36,9 @@ clean:
 	rm -rf $(BUILD_DIR)
 
 .PHONY: all clean
+
+install: all
+	install -d $(DESTDIR)/usr/local/bin
+	install $(TARGET) $(DESTDIR)/usr/local/bin/betterfetch
+
+.PHONY: all clean install
